@@ -56,7 +56,6 @@ body {
   height: 2.3em;
   font-size: 1em;
   background-color: rgba(0, 0, 0, 0.514);
-  border-radius: 1.4em;
 }
 
 #cerca-input-start::placeholder {
@@ -79,7 +78,6 @@ body {
 .app-container-header div {
   background-color: rgba(194, 193, 193, 0.1);
   padding: 0.2em 0.2em 0.2em 0.5em;
-  border-radius: 0.5em;
   transition-duration: 0.2s;
   font-weight: 300;
   display: flex;
