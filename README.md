@@ -1,4 +1,4 @@
-# <div style="margin:10px 0px; font-size:50px;" align="center">🖥️ Windows 11</div>
+# <div style="margin:10px 0px; font-size:50px;" align="center">🖥️ Windows 10 Emulator Fork</div>
 
 Welcome to the **Windows Clone** app built with **React.js**! 🎉 Dive into this interactive simulation of the Windows operating system, packed with apps and features to play around with. Let’s get started!
 
